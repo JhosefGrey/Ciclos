@@ -1,0 +1,7 @@
+{
+  "name": "ciclos-cap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
